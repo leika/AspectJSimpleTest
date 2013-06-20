@@ -1,0 +1,6 @@
+<aspectj>
+    <aspects>
+        <aspect name="net.andrewewhite.aspects.BasicAspect"/>
+        <aspect name="net.andrewewhite.aspects.MySimpleTrace"/>
+    </aspects>
+</aspectj>
